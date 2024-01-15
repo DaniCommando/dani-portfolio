@@ -51,7 +51,7 @@
   .pf-ch{
     height: 30vmax;
     width: 40vmax;
-    border: 1px solid rgb(140, 0, 255);
+    border: 5px solid black;
     text-align: left;
   }
   .pf-ch1-button{
