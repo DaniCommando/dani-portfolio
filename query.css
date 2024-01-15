@@ -1,0 +1,98 @@
+@media(max-width:600px){
+  .home-parent{
+    font-size: 16px;
+    flex-direction: column;
+    flex-flow: column-reverse;
+    width: 100%;
+  }
+  .home-ch1{
+    width: 100%;
+    padding-top: 20px;
+    text-align: left;
+  }
+  .home-ch2-1{
+    font-size: 24px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .home-ch2-2{
+    font-size: 18px;
+    width: 100%;
+  
+  }
+  .education-parent{
+    align-items: center;
+    font-size: 20px;
+    text-align: left;
+    display: flex;
+    gap: 40px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .education-parent p{
+    width: 200px;
+    font-size: 0.8em;
+  }
+  .bcom-sec h3,.ssc-sec h3, .hsc-sec h3{
+    font-size: 1.5em;
+  }
+  .bcom-sec div, .hsc-sec div, .ssc-sec div{
+    font-size: 0.9em;
+  }
+  .pf-parent{
+    flex-direction: column;
+    gap: 40px;
+    width: 100%;
+    font-size: 16px;
+    margin: 2px;
+  }
+  .pf-ch{
+    height: 30vmax;
+    width: 40vmax;
+    border: 1px solid rgb(140, 0, 255);
+    text-align: left;
+  }
+  .pf-ch1-button{
+    opacity: 1;
+  }
+  .pf-ch2-button{
+    opacity: 1;
+  }
+  .pf-ch h2{
+    top: 0;
+    margin-bottom: 10px;
+  }
+  .pf-ch1{
+    top: 25%;
+    
+  }
+  .pf-ch2{
+    top: 65%;
+    
+  }
+  .portfolio-div{
+    padding: 0;
+  }
+  .portfolio-div h1{
+    margin-bottom: 20px;
+  }
+  #label{
+    font-size: 0.8em;
+    width: 200px;
+   
+  }
+  .fname{
+    font-size: 0.7em;
+  }
+  .contact-message{
+    height: 15vmax;
+    padding: 10px;
+
+  }
+  .name-div{
+  gap: 20px;
+  
+  }
+}
